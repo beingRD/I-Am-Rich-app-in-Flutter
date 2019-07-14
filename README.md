@@ -1,6 +1,8 @@
-# i_am_rich
+# I Am Rich app in Flutter
 
 A new Flutter project.
+
+## Snapshot 
 
 ## Getting Started
 
